@@ -1,8 +1,8 @@
 # run project locally
-# 1.npm install
+# 1.npm install && cd ios && pod install
 # 2.cd android && ./gradlew clean(if it will give any error in running)
 # 3.cd..
-# 4.npm install
+# 4.npm install && cd ios && pod install
 # 5.npm run android (for running in android) and npm run ios (for running in ios)
 
 # features implemented
